@@ -27,7 +27,7 @@ and highlights the iframes if the Adchoices icon is found.
 - *perceptualLibrary/perceptual_background.js* contains the code that does the fuzzy image hashing and link destination detection.
 - *locale_info.js* keeps information about the "Sponsored" text in various languages to support all Facebook locales.
 - *utils.js* contains the code for covering advertisements once they have been identified
-- *externalCode* contains jquery 1.12.4
+- *externalCode* contains jquery 3.2.1
 - *actual_icons* contains the actual Adchoices icons.
 
 # Running This Extension

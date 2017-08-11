@@ -18,7 +18,7 @@
     {
       "matches": ["<all_urls>"],
       "js": [
-        "externalCode/jquery/jquery-1.12.4.min.js",
+        "externalCode/jquery/jquery-3.2.1.min.js",
         "perceptualLibrary/image_search.js",
         "utils.js",
         "content.js"
@@ -30,7 +30,7 @@
     {
       "matches": ["https://www.facebook.com/*"],
       "js": [
-        "externalCode/jquery/jquery-1.12.4.min.js",
+        "externalCode/jquery/jquery-3.2.1.min.js",
         "perceptualLibrary/container_finder.js",
         "perceptualLibrary/link_clicker.js",
         "perceptualLibrary/check_text_and_link.js",
